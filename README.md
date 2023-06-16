@@ -23,6 +23,6 @@ The results, including execution time and an XML file, will be outputted immedia
 
         python querry_xml.py --f xml_file --s thres_start --e thres_end
         
-Please note that you need to replace `user`, `dbname`, and `password` with your own credentials. Also, make sure to provide the appropriate values for the command-line arguments specified in the usage instructions.
+Please note that you need to replace some variable behind the parser such as`user`, `dbname`, `password`, ... with your own credentials. Also, make sure to provide the appropriate values for the command-line arguments specified in the usage instructions.
 
 If you have any questions, feel free to reach out.
