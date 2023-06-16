@@ -1,0 +1,5 @@
+mysql-connector-python
+argparse
+beautifulsoup4
+tqdm
+xmltodict

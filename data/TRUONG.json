@@ -1,0 +1,426 @@
+[
+  {
+    "Tên trường": "Trường Trung học phổ thông Hà Huy Tập",
+    "Địa chỉ": "Số 1 Lê Hồng Phong, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Huệ",
+    "Địa chỉ": "Số 25 Trần Phú, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Quý Đôn",
+    "Địa chỉ": "Số 10 Lý Thường Kiệt, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Phú",
+    "Địa chỉ": "Số 15 Trần Phú, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Thị Minh Khai",
+    "Địa chỉ": "Số 20 Nguyễn Thị Minh Khai, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Lợi",
+    "Địa chỉ": "Số 5 Lê Lợi, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Du",
+    "Địa chỉ": "Số 8 Nguyễn Du, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Trãi",
+    "Địa chỉ": "Số 12 Nguyễn Trãi, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Thái Tổ",
+    "Địa chỉ": "Số 18 Lý Thái Tổ, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Phan Đình Phùng",
+    "Địa chỉ": "Số 3 Phan Đình Phùng, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Quang Khải",
+    "Địa chỉ": "Số 9 Trần Quang Khải, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Quang Đạo",
+    "Địa chỉ": "Số 16 Lê Quang Đạo, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Phạm Văn Đồng",
+    "Địa chỉ": "Số 21 Phạm Văn Đồng, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Khuyến",
+    "Địa chỉ": "Số 6 Nguyễn Khuyến, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Thánh Tôn",
+    "Địa chỉ": "Số 11 Lê Thánh Tôn, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Hưng Đạo",
+    "Địa chỉ": "Số 14 Trần Hưng Đạo, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Cừ",
+    "Địa chỉ": "Số 19 Nguyễn Văn Cừ, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Thường Kiệt",
+    "Địa chỉ": "Số 4 Lý Thường Kiệt, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trường Chinh",
+    "Địa chỉ": "Số 17 Trường Chinh, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Hữu Thọ",
+    "Địa chỉ": "Số 2 Nguyễn Hữu Thọ, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Lợi",
+    "Địa chỉ": "Số 7 Lê Lợi, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Nhân Tông",
+    "Địa chỉ": "Số 13 Trần Nhân Tông, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Hồng Phong",
+    "Địa chỉ": "Số 22 Lê Hồng Phong, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Quốc Toản",
+    "Địa chỉ": "Số 5 Trần Quốc Toản, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Linh",
+    "Địa chỉ": "Số 10 Nguyễn Văn Linh, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Đại Nghĩa",
+    "Địa chỉ": "Số 15 Trần Đại Nghĩa, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Trung Trực",
+    "Địa chỉ": "Số 20 Nguyễn Trung Trực, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Thái Tổ",
+    "Địa chỉ": "Số 3 Lý Thái Tổ, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Bình Trọng",
+    "Địa chỉ": "Số 8 Trần Bình Trọng, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Trãi",
+    "Địa chỉ": "Số 13 Nguyễn Trãi, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Lợi",
+    "Địa chỉ": "Số 18 Lê Lợi, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Phú",
+    "Địa chỉ": "Số 4 Trần Phú, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Thái Học",
+    "Địa chỉ": "Số 9 Nguyễn Thái Học, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Duẩn",
+    "Địa chỉ": "Số 14 Lê Duẩn, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Thị Minh Khai",
+    "Địa chỉ": "Số 19 Nguyễn Thị Minh Khai, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Hồng Phong",
+    "Địa chỉ": "Số 2 Lê Hồng Phong, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Quang Khải",
+    "Địa chỉ": "Số 7 Trần Quang Khải, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Thái Bình",
+    "Địa chỉ": "Số 12 Nguyễn Thái Bình, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Thái Tổ",
+    "Địa chỉ": "Số 17 Lý Thái Tổ, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Phan Đình Phùng",
+    "Địa chỉ": "Số 2 Phan Đình Phùng, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Quang Diệu",
+    "Địa chỉ": "Số 7 Trần Quang Diệu, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Trường Tộ",
+    "Địa chỉ": "Số 11 Nguyễn Trường Tộ, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Trọng Tấn",
+    "Địa chỉ": "Số 16 Lê Trọng Tấn, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Quốc Toản",
+    "Địa chỉ": "Số 1 Trần Quốc Toản, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Linh",
+    "Địa chỉ": "Số 6 Nguyễn Văn Linh, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Lợi",
+    "Địa chỉ": "Số 11 Lê Lợi, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Cao Vân",
+    "Địa chỉ": "Số 16 Trần Cao Vân, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Thái Tổ",
+    "Địa chỉ": "Số 1 Lý Thái Tổ, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Phú",
+    "Địa chỉ": "Số 6 Trần Phú, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Linh",
+    "Địa chỉ": "Số 11 Nguyễn Văn Linh, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Hồng Phong",
+    "Địa chỉ": "Số 16 Lê Hồng Phong, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Hưng Đạo",
+    "Địa chỉ": "Số 1 Trần Hưng Đạo, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Thị Minh Khai",
+    "Địa chỉ": "Số 6 Nguyễn Thị Minh Khai, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Duẩn",
+    "Địa chỉ": "Số 11 Lê Duẩn, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Phú",
+    "Địa chỉ": "Số 16 Trần Phú, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Cừ",
+    "Địa chỉ": "Số 1 Nguyễn Văn Cừ, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Lợi",
+    "Địa chỉ": "Số 6 Lê Lợi, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Bình Trọng",
+    "Địa chỉ": "Số 11 Trần Bình Trọng, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Thái Tổ",
+    "Địa chỉ": "Số 16 Lý Thái Tổ, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Phan Đình Phùng",
+    "Địa chỉ": "Số 1 Phan Đình Phùng, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Quang Diệu",
+    "Địa chỉ": "Số 6 Trần Quang Diệu, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Trường Tộ",
+    "Địa chỉ": "Số 10 Nguyễn Trường Tộ, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Trọng Tấn",
+    "Địa chỉ": "Số 15 Lê Trọng Tấn, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Quốc Toản",
+    "Địa chỉ": "Số 1 Trần Quốc Toản, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Linh",
+    "Địa chỉ": "Số 6 Nguyễn Văn Linh, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Lợi",
+    "Địa chỉ": "Số 11 Lê Lợi, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Cao Vân",
+    "Địa chỉ": "Số 16 Trần Cao Vân, Đà Nẵng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Thái Tổ",
+    "Địa chỉ": "Số 1 Lý Thái Tổ, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Phú",
+    "Địa chỉ": "Số 6 Trần Phú, Hải Phòng"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Linh",
+    "Địa chỉ": "Số 11 Nguyễn Văn Linh, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Hồng Phong",
+    "Địa chỉ": "Số 16 Lê Hồng Phong, Cần Thơ"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Hưng Đạo",
+    "Địa chỉ": "Số 1 Trần Hưng Đạo, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Thị Minh Khai",
+    "Địa chỉ": "Số 6 Nguyễn Thị Minh Khai, Hà Nội"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Duẩn",
+    "Địa chỉ": "Số 11 Lê Duẩn, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Phú",
+    "Địa chỉ": "Số 16 Trần Phú, Hồ Chí Minh"
+  },
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Cừ",
+    "Địa chỉ": "Số 1 Nguyễn Văn Cừ, Đà Nẵng"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Quang Trung",
+    "Địa chỉ": "Số 1 Trần Quang Diệu, Ninh Bình"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Khánh Dư",
+    "Địa chỉ": "Số 2 Phạm Văn Đồng, Hồ Chí Minh"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Hùng Vương",
+    "Địa chỉ": "Số 3 Trần Hưng Đạo, Cà Mau"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Nhật Duật ",
+    "Địa chỉ": "Số 4 Lý Bí, Kiên Giang"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Quý Đôn ",
+    "Địa chỉ": "Số 2 Hai Bà Trưng, Hồ Chí Minh"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Đinh Tiên Hoàng",
+    "Địa chỉ": "Số 10 Nguyễn Trung Trực, Nghệ An"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Chuyên Phan Ngọc Hiển",
+    "Địa chỉ": "Số 1 Phan Thanh Liêm, Cà Mau"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Phùng Hưng",
+    "Địa chỉ": "Số 3 Bùi Thị Trường, Cà Mau"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Bùi Thị Xuân",
+    "Địa chỉ": "Số 5 Wiliam Sakepeer, Hồ Chí Minh"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Chuyên Lý Tự Trọng",
+    "Địa chỉ": "Số 7 Phạm Ngũ Lão, Cần Thơ"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Nam Đế",
+    "Địa chỉ": "Số 9 Lý Thường Kiệt, An Giang"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Lạc Long Quân",
+    "Địa chỉ": "Số 1 Tản Đà, Thái Bình"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Bình Trọng",
+    "Địa chỉ": "Số 19 Hà Huy Tập, Thái Nguyên"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Trần Phú",
+    "Địa chỉ": "Số 25 Nguyễn Thị Lựu, Đắc Lắc"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Ngô Gia Tự",
+    "Địa chỉ": "Số 30 Tràng Tiền, Cà Mau"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Võ Thị Sáu",
+    "Địa chỉ": "Số 9 Dương Văn Đức, Bạc Liêu"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Trương Công Định",
+    "Địa chỉ": "Số 7 Nguyễn Thông, Đà Nẵng"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Chuyên Asterdam",
+    "Địa chỉ": "Số 10 Nguyễn Đình Chiểu, Hà Nội"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Chuyên Trần Đại Nghĩa",
+    "Địa chỉ": "Số 9 Nguyễn Văn Cừ, Hồ Chí Minh"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Tôn Đức Thắng",
+    "Địa chỉ": "Số 8 Nguyễn Khuyến, Đồng Nai"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Lê Thánh Tôn",
+    "Địa chỉ": "Số 3 Quang Trung, Đồng Nai"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Lý Thường Kiệt",
+    "Địa chỉ": "Số 7 Trương Định, Hà Giang"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Bùi Thị Xuân",
+    "Địa chỉ": "Số 12 Huyện Thanh Quan, Hải Phòng"
+  }
+  ,
+  {
+    "Tên trường": "Trường Trung học phổ thông Nguyễn Văn Linh",
+    "Địa chỉ": "Số 13 Trần Nhân Tông, Nam Định"
+  }
+]
