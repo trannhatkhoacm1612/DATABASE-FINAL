@@ -11,7 +11,7 @@
 
 2. Run the `generate_db.py` file to generate data and insert it into the database:
        
-       ython generate_db.py --u user --n dbname --p password
+       python generate_db.py --u user --n dbname --p password
 
 3. Run the `querry.py` file to perform queries and measure execution time:
    
