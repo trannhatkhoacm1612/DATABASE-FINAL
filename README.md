@@ -1,5 +1,8 @@
 # DATABASE_FINAL
 
+![Realationship in Database](./relation.png)
+
+
 ## I. Install
     cd DATABASE_FINAL
     pip install -r requirement.txt
